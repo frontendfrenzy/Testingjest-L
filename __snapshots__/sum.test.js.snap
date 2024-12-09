@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`exfunction snapshot 1`] = `
+{
+  "message": "hello,world",
+  "timestamp": "2024-07-12T12:34:56.789Z",
+}
+`;
+
+exports[`snapshot matches 1`] = `
+{
+  "id": Any<Number>,
+  "name": "faleel",
+}
+`;

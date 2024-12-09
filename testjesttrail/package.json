@@ -1,0 +1,12 @@
+{
+  "name": "testjesttrail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trailsum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
